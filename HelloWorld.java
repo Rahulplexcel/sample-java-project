@@ -1,7 +1,5 @@
-class Program1
-  {
-    public static void main[args[]str]
-    {
-      System.out.println("Im Rahul");
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
     }
-  }
+}
